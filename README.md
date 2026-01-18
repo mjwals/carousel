@@ -7,7 +7,7 @@ Built in 2019.
 ## Tech stack
 - HTML
 - CSS
-- FontAwesome
+- FontAwesome v5.15.4
 - JavaScript
 ## How to use it
 There are no prerequisites required. Simply download the zip folder and open `index.html`.
