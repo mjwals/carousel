@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <title>Carousel</title>
+    <link href="carousel.css" rel="stylesheet" />
+
+    <script
+      src="https://kit.fontawesome.com/849cbce7c6.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="carousel">
+      <button class="carousel-button left is-hidden">
+        <i class="fas fa-chevron-left"></i>
+      </button>
+      <div class="carousel-track-container">
+        <ul class="carousel-track">
+          <li class="carousel-slide current-slide">
+            <img src="img/1.jpg" class="carousel-image" alt="img 1" />
+          </li>
+          <li class="carousel-slide">
+            <img src="img/2.jpg" class="carousel-image" alt="img 2" />
+          </li>
+          <li class="carousel-slide">
+            <img src="img/3.jpg" class="carousel-image" alt="img 3" />
+          </li>
+        </ul>
+      </div>
+      <button class="carousel-button right">
+        <i class="fas fa-chevron-right"></i>
+      </button>
+
+      <div class="carousel-nav">
+        <button class="carousel-indicator current-slide"></button>
+        <button class="carousel-indicator"></button>
+        <button class="carousel-indicator"></button>
+      </div>
+    </div>
+
+    <script src="carousel.js"></script>
+  </body>
+</html>
