@@ -1,4 +1,4 @@
-# Accordion
+# Carousel
 A small prototype carousel I built from scratch. Instead of relying on a third‑party library, I used it as a chance to sharpen my JavaScript skills and create my own lightweight version.
 
 Built in 2019.
