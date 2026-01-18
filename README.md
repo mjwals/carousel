@@ -3,7 +3,7 @@ A small prototype carousel I built from scratch. Instead of relying on a thirdâ€
 
 Built in 2019.
 
-[See the live demo here](https://www.mjwals.co.uk/accordion/)
+[See the live demo here](https://www.mjwals.co.uk/carousel/)
 ## Tech stack
 - HTML
 - CSS
